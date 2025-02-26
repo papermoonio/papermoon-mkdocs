@@ -197,4 +197,4 @@ Before requesting a PR review, please ensure you have completed the following:
 ## Additional Resources
 
 - [**Character Counter**](https://wordcounter.net/character-count){target=\_blank} - quickly check the character length of your titles and descriptions
-- [**Title Case Converter**](https://titlecaseconverter.com/){target=\_blank} - verify title case for titles or headlines
+- [**Title Case Converter**](https://titlecaseconverter.com/){target=\_blank} - verify Chicago-style title case for titles or headlines
