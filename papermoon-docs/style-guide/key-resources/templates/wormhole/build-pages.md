@@ -52,19 +52,19 @@ User feedback can be a powerful tool in shaping documentation to meet user needs
 
 The title of a Build page should tell the user what task they can accomplish by following the guide. Consider the following guidelines and options when naming a Build page:
 
-- **Use a Verb** - start the title with the plain, or base, form of a verb such as "Build," "Integrate," or "Configure"
+- **Use a verb** - start the title with the plain, or base, form of a verb such as "Build," "Integrate," or "Configure"
 
     :white_check_mark: Send Messages with Wormhole Relayer
 
     :white_check_mark: Interact with CCTP Contracts
 
-- **Avoid Use of Present Participles** - also known as gerunds, the "-ing" form of verbs makes content more challenging to translate and, therefore, decreases accessibility
+- **Avoid use of present participles** - also known as gerunds, the "-ing" form of verbs makes content more challenging to translate and, therefore, decreases accessibility
 
     :x: Building Cross-Chain Applications
 
     :x: Integrating Smart Contracts
 
-- **Communicate the Task** - the page title should tell the user what the guide will help them accomplish as completely as possible
+- **Communicate the task** - the page title should tell the user what the guide will help them accomplish as completely as possible
 
     :white_check_mark: Run a Custom Relayer
 
@@ -100,9 +100,9 @@ As you name the subtasks within your Build page to create section headings, cons
 
 - **Consider SEO** - keep these headings informative to improve SEO performance, discoverability, and accessibility
 
-- **Use a Verb** - similar to the page title, headings should use plain or base forms of verbs
+- **Use a verb** - similar to the page title, headings should use plain or base forms of verbs
 
-- **Create an Outline** - create an outline using just the headings for the subtasks and review it to ensure the user can readily determine the upcoming activities using the headings alone
+- **Create an outline** - create an outline using just the headings for the subtasks and review it to ensure the user can readily determine the upcoming activities using the headings alone
 
 ## Style Guidance
 

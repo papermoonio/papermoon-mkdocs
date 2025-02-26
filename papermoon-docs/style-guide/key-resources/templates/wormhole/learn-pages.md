@@ -121,10 +121,10 @@ Examples - see the following for examples of quality opening paragraphs:
 Following the opening paragraph, add one to two paragraphs to address the following points where relevant:
 
 - **Functionality** - what does the product or concept do?
-- **Define the Concept** - think of a glossary definition. The goal is to create a shared understanding of the concept between the writer and the reader
-- **The Big Picture** - explain how this concept fits into the bigger picture of products or concepts. Focus language on the problem solved and the benefits of the solution 
-- **Key Features** - a bullet list of key features can be helpful here
-- **Visual Aid or Diagram** (optional) - use if it will help illustrate how the concept is organized or how it fits into the broader system or product
+- **Define the concept** - think of a glossary definition. The goal is to create a shared understanding of the concept between the writer and the reader
+- **The big picture** - explain how this concept fits into the bigger picture of products or concepts. Focus language on the problem solved and the benefits of the solution 
+- **Key features** - a bullet list of key features can be helpful here
+- **Visual aid or diagram** (optional) - use if it will help illustrate how the concept is organized or how it fits into the broader system or product
 
 Example - see the following for an example of defining a concept:
 
