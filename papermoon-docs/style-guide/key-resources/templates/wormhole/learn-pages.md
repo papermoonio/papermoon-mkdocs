@@ -156,7 +156,7 @@ Create a bulleted list of guides and tutorials related to the page contents to g
 
 ## Learn Page Template
 
---8<-- 'code/style-guide/key-resources/templates/wormhole/index-pages/wh-learn-template.md'
+--8<-- 'text/style-guide/key-resources/templates/wormhole/index-pages/wh-learn-template.md'
 
 ## PR Checklist
 

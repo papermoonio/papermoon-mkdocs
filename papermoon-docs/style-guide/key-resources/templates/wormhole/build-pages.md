@@ -39,6 +39,15 @@ There is often more than one possible way to complete a task. Your goal as the c
 
 Track any errors you encounter while working through the task and identify scenarios. Your Build page should include troubleshooting information anywhere you anticipate the user may encounter errors.
 
+### Collect User Feedback 
+
+User feedback can be a powerful tool in shaping documentation to meet user needs best. Collect common questions or concerns where possible and use them to guide your content development. Potential sources of feedback might include:
+
+- Submissions to the feedback widget
+- Hackathon participant feedback
+- GitHub issues on project repositories
+- Developer discussions in places like Discord and Telegram
+
 ## Name a Build Page
 
 The title of a Build page should tell the user what task they can accomplish by following the guide. Consider the following guidelines and options when naming a Build page:
@@ -168,7 +177,7 @@ Create a bulleted list of guides and tutorials related to the page contents to g
 
 ## Build Page Template
 
---8<-- 'code/style-guide/key-resources/templates/wormhole/index-pages/wh-build-template.md'
+--8<-- 'text/style-guide/key-resources/templates/wormhole/index-pages/wh-build-template.md'
 
 ## PR Checklist
 

@@ -61,11 +61,8 @@ How-to guide pages are typically grouped under a section. How-to guide section n
 
 ### Index Pages
 
-The use of index pages is under review. Expect changes and updates to this guidance. 
+:construction: :construction_worker_tone3: :soon: :tm:
 
-#### Wormhole
-- [**Index page template guide**](/papermoon-mkdocs/style-guide/key-resources/templates/wormhole/index-pages/)
-- [**Index page template**](/papermoon-mkdocs/style-guide/key-resources/templates/wormhole/index-pages/#index-page-template)
 
 ## Additional Resources
 

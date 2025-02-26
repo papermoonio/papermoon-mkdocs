@@ -46,6 +46,7 @@ INSERT_SCREENSHOT_SYNTAX (if using a screenshot)
 - {{To review the {{tool name}} source code, see the [{{repo name}}]({{path/for/link}}) repository on GitHub}}
 
 ## Where to Go Next
+
 - {{For a guide to integrating {{Product}} with your project, see [{{How-to-Integrate-Product}}]({{path/for/link}}) in the Build section}}
 - {{For a step-by-step walk-through of configuring {{Tool}}, see [{{Tutorial Title}}]({{path/for/link}}) in the Tutorials section}}
 ```
