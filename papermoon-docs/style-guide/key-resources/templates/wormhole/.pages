@@ -1,5 +1,6 @@
 title: Wormhole
 nav:
+  - index.md
   - 'Learn Pages': learn-pages.md
   - 'Build Pages': build-pages.md
   
